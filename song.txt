@@ -1,2 +1,3 @@
-hello my friend
+hello 
 I am learn git
+and I am Marine
